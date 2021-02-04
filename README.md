@@ -7,6 +7,7 @@ MAIN FILES <br>
 This is done in the binary picture. <br>
 <b>Distillation_statistics.ipynb</b>: Given a transversal and the corresponding n > 1, this file calculates the distillation statistics (success probability and fidelity).
 The function sucprob_fid_lists returns all possible combinations of success probability and fidelity that can be obtained. <br>
+<b>dejmps_optimality.ipynb</b>: Checks analytically that DEJMPS achieves the highest fidelity for a double tensor product of the same bell-diagonal state. <br>
 
 DATA <br>
 <b>2_transversal_inv.sobj</b>: Transversal for n = 2. The inverse symplectic matrices are saved here. <br>
