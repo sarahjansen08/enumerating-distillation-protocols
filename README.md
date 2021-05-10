@@ -13,3 +13,5 @@ DATA <br>
 <b>2_transversal_inv.sobj</b>: Transversal for n = 2. The inverse symplectic matrices are saved here. <br>
 <b>3_transversal_inv.sobj</b>: Transversal for n = 3. <br>
 <b>4_transversal_inv.sobj</b>: Transversal for n = 4. <br>
+
+All notebooks were run on SageMath 9.0, using Python 3.7.3 and NumPy 1.16.1.
